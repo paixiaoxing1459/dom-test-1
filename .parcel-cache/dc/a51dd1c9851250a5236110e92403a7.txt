@@ -1,0 +1,11 @@
+10
+23E:\Record\dom-test\dist132682908398515352 1
+41E:\Record\dom-test\dist\index.bd78eeec.js132682908398345807 0
+22E:\Record\dom-test\src132682900560363846 1
+29E:\Record\dom-test\src\dmo.js132682905333819527 0
+33E:\Record\dom-test\src\index.html132682907033616671 0
+45E:\Record\dom-test\dist\index.c6a8b80e.js.map132682908398465482 0
+41E:\Record\dom-test\dist\index.c6a8b80e.js132682908398345807 0
+30E:\Record\dom-test\src\main.js132682908275319656 0
+45E:\Record\dom-test\dist\index.bd78eeec.js.map132682908398465482 0
+34E:\Record\dom-test\dist\index.html132682908398335834 0
